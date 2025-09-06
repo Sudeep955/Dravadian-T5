@@ -52,6 +52,4 @@ This project also introduces:
 
 ---
 
-## 💡 Example  
 
-**Input (Kannada):**  
